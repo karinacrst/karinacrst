@@ -8,7 +8,7 @@
   <br>
             '<b>tecnologias'</b>: ['HTML', 'CSS'],<br>
             '<b>estudando</b>': ['Design'],<br>
-            '<b>frase_de_efeito</b>': ['A felicidade pode ser encontrada mesmo nas horas mais difíceis, se você se lembrar de acender a luz.' - Alvo Dumbledore],<br>
+            '<b>frase_de_efeito</b>': ['Jamais se esqueça dos seus sonhos. Pratique. Alcance!],<br>
             '<b>linkedin</b>':  'https://www.linkedin.com/in/karinacrst/',<br>
             '<b>email'</b>: 'tcriskarina@gmail.com'<br>
   <br>
